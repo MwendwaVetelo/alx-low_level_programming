@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - this is the entry point
- * Retunr: is 0
+ * Return: is 0
  */
 
 int main(void)
