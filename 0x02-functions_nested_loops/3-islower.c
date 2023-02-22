@@ -6,9 +6,9 @@
  * Return: 1 if char is lowercase, otherwise 0.
  */
 
-int _islower(int r)
+int _islower(int b)
 {
-	if (r >= 'a' && r <= 'z')
+	if (b >= 'a' && b <= 'z')
 		return (1);
 	else
 		return (0);
